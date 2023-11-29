@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\övningsboken\övningsboken\bin\Debug\övningsboken.exe.config
+C:\Users\zirko\source\repos\övningsboken\övningsboken\bin\Debug\övningsboken.exe
+C:\Users\zirko\source\repos\övningsboken\övningsboken\bin\Debug\övningsboken.pdb
+C:\Users\zirko\source\repos\övningsboken\övningsboken\obj\Debug\övningsboken.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\övningsboken\övningsboken\obj\Debug\övningsboken.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\övningsboken\övningsboken\obj\Debug\övningsboken.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\övningsboken\övningsboken\obj\Debug\övningsboken.exe
+C:\Users\zirko\source\repos\övningsboken\övningsboken\obj\Debug\övningsboken.pdb
